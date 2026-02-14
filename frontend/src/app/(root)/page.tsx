@@ -5,7 +5,7 @@ import { productService } from '@/services/product.service'
 import { Home } from './Home'
 
 export const metadata: Metadata = {
-	title: 'Ваш шопинг, ваше удовольствие – все в одном месте!'
+	title: ''
 }
 
 export const revalidate = 60
